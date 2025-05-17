@@ -1,12 +1,7 @@
-<p align="center">
-  <strong><span style="font-size: 40px;">Hi 👋, I'm Eshikha Polimetla</span></strong>
-</p>
-
----
+# Hi 👋, I'm Eshikha Polimetla
 
 
 🎓 I'm a 3rd-year B.Tech CSE student at **IIT Jodhpur**, passionate about solving real-world problems through code and collaboration.
-
 ---
 
 ### 🌱 What I'm Currently Up To
