@@ -28,7 +28,7 @@
 ### 🤝 Let's Connect
 
 - ✉️ Email: [polimetlaeshikha@gmail.com](mailto:polimetlaeshikha@gmail.com)
-- 🔗 [LinkedIn](www.linkedin.com/in/eshikha-polimetla-65b87528a) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eshikha-polimetla-65b87528a/) 
 
 ---
 
