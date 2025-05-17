@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><span style="font-size: 28px;">Hi 👋, I'm Eshikha Polimetla</span></strong>
+  <strong><span style="font-size: 40px;">Hi 👋, I'm Eshikha Polimetla</span></strong>
 </p>
 
 ---
