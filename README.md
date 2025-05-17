@@ -37,5 +37,5 @@
 I'm currently working on an **EdTech open-source tool: EduPing** as part of the MLH Fellowship.  
 If you're interested in education tech, feel free to **check it out and contribute**!
 
-👉 *(https://github.com/eshikhap/EduPing)*
+👉 *https://github.com/eshikhap/EduPing*
 
