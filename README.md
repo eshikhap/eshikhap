@@ -9,8 +9,8 @@
 - 📚 Deep diving into **Data Structures and Algorithms**
 - 🌍 Actively exploring the world of **Open Source**
   - Participated in [MLH Global Hack Week](https://ghw.mlh.io/) as part of the **Open Source Week**
-  - Currently building an **EdTech open source tool: EduPing**
-    *https://github.com/eshikhap/EduPing*
+  - Currently building an **EdTech open source tool: StructIQ**
+    *https://github.com/eshikhap/StructIQ*
 - ☁️ Learning the fundamentals of **Cloud Computing**
 
 ---
@@ -34,8 +34,8 @@
 
 ### 🚀 Check Out My Open Source Work!
 
-I'm currently working on an **EdTech open-source tool: EduPing** as part of the MLH Fellowship.  
+I'm currently working on an **EdTech open-source tool: StructIQ** as part of the MLH Fellowship.  
 If you're interested in education tech, feel free to **check it out and contribute**!
 
-👉 *https://github.com/eshikhap/EduPing*
+👉 *https://github.com/eshikhap/StructIQ*
 
