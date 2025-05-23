@@ -10,6 +10,7 @@
 - 🌍 Actively exploring the world of **Open Source**
   - Participated in [MLH Global Hack Week](https://ghw.mlh.io/) as part of the **Open Source Week**
   - Currently building an **EdTech open source tool: StructIQ**
+    
     *https://github.com/eshikhap/StructIQ*
 - ☁️ Learning the fundamentals of **Cloud Computing**
 
